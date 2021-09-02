@@ -1,0 +1,68 @@
+* {
+    background-color: aqua;
+}
+
+
+.h1 {
+    position: absolute;
+top: 50px;
+left: 550px;
+}
+
+.h2 {
+    position: absolute;
+top: 150px;
+left: 640px;
+}
+
+.img1 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  margin-top: 200px;
+}
+
+.p1 {
+    position: absolute;
+    /* left: 400px; */
+    font-size: larger;
+    text-align: center;
+}
+
+div.a {
+    font-size: large;
+    text-align: center;
+}
+#table1 {
+    background-color: green;
+    border-collapse: collapse;
+    width: 30%;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+#table1 th {
+    padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
+
+#table1 td, #table1 th {
+    background-color: green;
+    border: 5px solid rgb(255, 0, 0);
+  padding: 8px;
+}
+
+.thhtml {
+   border-collapse: collapse;
+   padding: 0%;
+}
+
+#elementid1 {
+    background-color: red;
+}
+
+.elementclass1 {
+    background-color: red;
+}
